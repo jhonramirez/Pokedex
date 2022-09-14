@@ -147,6 +147,10 @@ footer img:hover {
         height: 80px;
         width: 80px;
     }
+
+    .footer___title {
+        margin-top: 6%;
+    }
 }
 
 @media only screen and (max-device-width: 870px) {
