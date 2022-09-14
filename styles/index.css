@@ -142,6 +142,11 @@ footer img:hover {
     .footer__content {
         padding: 0% 13% 1% 10%;
     }
+
+    .footer__img {
+        height: 80px;
+        width: 80px;
+    }
 }
 
 @media only screen and (max-device-width: 870px) {
